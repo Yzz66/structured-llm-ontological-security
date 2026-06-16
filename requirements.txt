@@ -1,0 +1,11 @@
+numpy
+pandas
+openpyxl
+scikit-learn
+torch
+transformers
+openai
+krippendorff
+sentence-transformers
+faiss-cpu
+PyMuPDF
